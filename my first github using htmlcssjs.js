@@ -27,3 +27,4 @@ emailEl.addEventListener("blur", function(event) {
 subscribeFormEl.addEventListener("submit", function(event) {
     event.preventDefault();
 });
+
