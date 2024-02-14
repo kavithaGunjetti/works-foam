@@ -28,3 +28,4 @@ subscribeFormEl.addEventListener("submit", function(event) {
     event.preventDefault();
 });
 
+
